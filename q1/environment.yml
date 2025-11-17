@@ -1,0 +1,19 @@
+name: midterm-q1-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - torch
+    - numpy
+    - matplotlib
+    - datasets
+    - scikit-learn
+    - tqdm
+    - gensim
+    - transformers
+    - pandas
+    - huggingface_hub
+    - safetensors

@@ -1,0 +1,22 @@
+name: midterm-q5-env
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip
+  - pip:
+      - transformers
+      - datasets
+      - evaluate
+      - sentencepiece
+      - tqdm
+      - numpy
+      - pandas
+      - scikit-learn
+      - matplotlib
+      - seaborn

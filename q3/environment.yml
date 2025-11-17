@@ -1,0 +1,27 @@
+name: midterm-q3-env
+channels:
+  - pytorch
+  - nvidia      
+  - conda-forge 
+  - defaults
+dependencies:
+  - python=3.10  
+  - pip
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.1
+  - numpy
+  - pandas
+  - tqdm
+  - pyyaml
+  - scikit-learn  
+  - datasets
+  - sentencepiece
+  - sacrebleu
+  - transformers
+
+  - pip:
+    - rouge-score
+    - evaluate
+    - triton  

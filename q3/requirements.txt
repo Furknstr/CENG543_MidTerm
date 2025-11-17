@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+datasets
+sentencepiece
+sacrebleu
+rouge-score
+transformers
+evaluate
+tqdm
+numpy
+pandas
+pyyaml
+triton

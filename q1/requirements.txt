@@ -1,0 +1,11 @@
+torch
+numpy
+matplotlib
+datasets
+scikit-learn
+tqdm
+gensim
+transformers
+pandas
+huggingface_hub
+safetensors

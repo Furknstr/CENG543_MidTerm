@@ -1,0 +1,11 @@
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2
+datasets>=2.19
+sacrebleu>=2.4
+rouge-score>=0.1.2
+tqdm>=4.66
+numpy>=1.26
+pandas>=2.1
+matplotlib>=3.8
+scikit-learn>=1.3

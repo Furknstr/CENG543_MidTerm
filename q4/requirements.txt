@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+evaluate
+sentencepiece
+tqdm
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
